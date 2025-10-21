@@ -1,12 +1,12 @@
 {
-    "name": "vesktop",
+    "name": "fluffcord",
     "version": "1.5.8",
     "private": true,
-    "description": "Vesktop is a custom Discord desktop app",
+    "description": "Fluffcord is a custom Discord desktop app",
     "keywords": [],
-    "homepage": "https://vencord.dev/",
+    "homepage": "https://flufflinux.com/",
     "license": "GPL-3.0-or-later",
-    "author": "Vendicated <vendicated@riseup.net>",
+    "author": "alexonvscode (alex@alexpod.xyz), flufflinux team",
     "main": "dist/js/main.js",
     "scripts": {
         "build": "tsx scripts/build/build.mts",
@@ -116,11 +116,11 @@
             ],
             "desktop": {
                 "entry": {
-                    "Name": "Vesktop",
+                    "Name": "Fluffcord",
                     "GenericName": "Internet Messenger",
                     "Type": "Application",
                     "Categories": "Network;InstantMessaging;Chat;",
-                    "Keywords": "discord;vencord;electron;chat;",
+                    "Keywords": "discord;fluffcord;fluff;cord;electron;chat;",
                     "MimeType": "x-scheme-handler/discord",
                     "StartupWMClass": "vesktop"
                 }

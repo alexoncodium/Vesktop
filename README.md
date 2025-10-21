@@ -1,4 +1,4 @@
-# Vesktop
+# Fluffcord a Vesktop Clone For Flufflinux
 
 Vesktop is a custom Discord desktop app
 
